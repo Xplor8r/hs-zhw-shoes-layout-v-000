@@ -25,12 +25,12 @@
 
 /* Positioning Classes */
 
-div [attr $ "-column"] {
+div [class *= "-column"] {
     float: left;
     margin-left: 2%;
   }
   
-[class *= "-column"]:first-child {
+div [class *= "-column"]:first-child {
   margin-left: 0;
 }
 
