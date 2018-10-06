@@ -30,7 +30,9 @@ div [class *= "-column"] {
     margin-left: 2%;
   }
   
-
+div [class *= "-column"]:first-child {
+  margin-left: 0;
+}
 
 .one-column {
   width: 32%;;
