@@ -25,7 +25,7 @@
 
 /* Positioning Classes */
 
-[class *= "-column"] {
+[attr $ "-column"] {
     float: left;
     margin-left: 2%;
   }
