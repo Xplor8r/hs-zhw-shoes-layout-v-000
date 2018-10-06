@@ -29,4 +29,6 @@ div [class ~= "-column"] {
     margin-left: 2%;
   }
   
-div [class ~= "-column"]:first-child
+div [class ~= "-column"]:first-child {
+  
+}
