@@ -29,8 +29,8 @@
     margin-left: 2%;
   }
   
-[class *= "-column"] {
-  
+[class *= "-column"]:first-child {
+  margin-left: 0;
 }
 
 .one-column {
