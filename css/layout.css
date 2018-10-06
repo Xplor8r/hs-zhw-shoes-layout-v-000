@@ -24,3 +24,7 @@
 
 /* Positioning Classes */
 
+.2-column {
+    float: left;
+    margin-left: 2%;
+  }
