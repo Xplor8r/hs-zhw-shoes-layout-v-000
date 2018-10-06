@@ -27,7 +27,7 @@
 
 div [class *= "-column"] {
     float: left;
-    margin-left: 2%;
+    margin-left: 1%;
   }
 
 div [class *= "-column"]:first-child {
@@ -40,5 +40,5 @@ div [class *= "-column"]:first-child {
 }
 
 .two-column {
-  width: 66%;
+  width: 67%;
 }
