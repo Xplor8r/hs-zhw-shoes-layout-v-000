@@ -24,7 +24,4 @@
 
 /* Positioning Classes */
 
-[class* = "-column"] {
-    float: left;
-    margin-left: 2%;
-  }
+
