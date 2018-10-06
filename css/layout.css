@@ -34,5 +34,5 @@ div [class ~= "-column"]:first-child {
 }
 
 .1-column {
-  width: ;
+  width: 32%;;
 }
