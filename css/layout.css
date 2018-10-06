@@ -36,6 +36,7 @@ div [class *= "-column"] {
   }
   
 div [class *= "-column"]:first-child {
+  float: left;
   margin-left: 0;
 }
 
