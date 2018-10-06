@@ -25,21 +25,18 @@
 
 /* Positioning Classes */
 
-div [class = "1-column"] {
+div [class *= "-column"] {
     float: left;
     margin-left: 2%;
   }
 
-div [class = "2-column"] {
+div [class *= "-column"] {
     float: left;
     margin-left: 2%;
   }
   
-div [class = "1-column"]:first-child {
-  margin-left: 0;
-}
-
-div [class = "2-column"]:first-child {
+div [class *= "-column"]:first-child {
+  float: left;
   margin-left: 0;
 }
 
