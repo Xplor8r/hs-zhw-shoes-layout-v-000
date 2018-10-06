@@ -25,7 +25,7 @@
 /* Positioning Classes */
 
 #wood  div {
-  
+  display: grid;
 }
 
 #wood section:nth-child(1) {
