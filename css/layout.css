@@ -24,7 +24,7 @@
 
 /* Positioning Classes */
 
-div [class ~ = "-column"] {
+div [class ~= "-column"] {
     float: left;
     margin-left: 2%;
   }
