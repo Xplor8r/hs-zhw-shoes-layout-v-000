@@ -18,7 +18,7 @@
   line-height: 0;
 }
 
-.clear {
+.grid-row:  {
   clear: both;
 }
 
