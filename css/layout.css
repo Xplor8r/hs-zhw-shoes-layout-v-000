@@ -33,3 +33,6 @@ div [class ~= "-column"]:first-child {
   margin-left: 0;
 }
 
+.1-column {
+  width: ;
+}
