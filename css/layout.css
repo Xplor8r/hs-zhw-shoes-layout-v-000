@@ -25,12 +25,12 @@
 
 /* Positioning Classes */
 
-div [class *= "-column"] {
+div [class = "1-column"] {
     float: left;
     margin-left: 2%;
   }
 
-div [class *= "-column"] {
+div [class = "2-column"] {
     float: left;
     margin-left: 2%;
   }
