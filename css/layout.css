@@ -35,8 +35,11 @@ div [class = "2-column"] {
     margin-left: 2%;
   }
   
-div [class *= "-column"]:first-child {
-  float: left;
+div [class = "1-column"]:first-child {
+  margin-left: 0;
+}
+
+div [class = "2-column"]:first-child {
   margin-left: 0;
 }
 
