@@ -24,23 +24,3 @@
 
 /* Positioning Classes */
 
-#wood  div {
-  display: grid;
-  grid-column-gap: 20px;
-}
-
-#wood section:nth-child(1) {
-  
-}
-
-#wood section:nth-child(4) {
-  
-}
-
-#wood section:nth-child(5) {
-  
-}
-
-#wood section:nth-child(6) {
-  
-}
