@@ -29,7 +29,9 @@
     margin-left: 2%;
   }
   
-
+[class *= "-column"] {
+  
+}
 
 .one-column {
   width: 32%;;
