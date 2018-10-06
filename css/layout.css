@@ -29,6 +29,11 @@ div [class *= "-column"] {
     float: left;
     margin-left: 2%;
   }
+
+div [class *= "-column"] {
+    float: left;
+    margin-left: 2%;
+  }
   
 div [class *= "-column"]:first-child {
   margin-left: 0;
